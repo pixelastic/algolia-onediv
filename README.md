@@ -1,7 +1,6 @@
-# dotcss-div
+# algolia-onediv
 
-A small hackish gift for the dotCSS organizers. I had fun recreating the
-logo design in one `<div>`.
+Recreating the Algolia logo with only one HTML div and CSS.
 
 ## Result
 
@@ -10,5 +9,5 @@ logo design in one `<div>`.
 ## Code
 
 ```html
-<div class="algolia"></div>
+<div class="dotcss"></div>
 ```
