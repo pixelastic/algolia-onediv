@@ -1,0 +1,29 @@
+{
+  "name": "algolia-onediv",
+  "version": "0.0.1",
+  "description": "Algolia logo in just one div",
+  "author": "Tim \"pixelastic\" Carry",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:pixelastic/algolia-onediv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pixelastic/algolia-onediv/issues"
+  },
+  "scripts": {
+    "build": "./scripts/build",
+    "serve": "./scripts/serve",
+    "deploy": "./scripts/deploy",
+    "postinstall": "./scripts/postinstall"
+  },
+  "devDependencies": {
+    "brunch": "1.8.5",
+    "gh-pages": "^0.8.0",
+    "javascript-brunch": "1.7.1",
+    "sass-brunch": "1.9.0"
+  },
+  "dependencies": {
+    "normalize.css": "3.0.3"
+  }
+}

@@ -1,0 +1,19 @@
+// Normalize
+@import '_vendors/normalize/normalize';
+@import '_helpers/fonts';
+
+// Colors
+$darkblue: #1D3657;
+$lightblue: #46AEDA;
+$white: #FFF;
+
+// Canvas
+$width: 500px;
+$height: 225px;
+
+.algolia {
+  width: $width;
+  height: $height;
+  background-color: $white;
+}
+
