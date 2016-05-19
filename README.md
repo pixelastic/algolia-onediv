@@ -4,7 +4,7 @@ Recreating the Algolia logo with only one HTML div and CSS.
 
 ## Result
 
-![Rendering](/app/assets/rendering.png)
+![Rendering](/app/assets/target.png)
 
 ## Code
 
